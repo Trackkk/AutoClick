@@ -6,9 +6,10 @@ Neptun tárgyfelvétel könnyítő
 	Windows-ba írd be: " Environment variables ". (környezeti váltózók) azt hiszem
 
 2. Nézd meg a sorrend képet, közben pillants ide.
-3. Adj hozzá új Path-et azt, ahol a Python Scrpit-ek vannak.
+3. Adj hozzá új Path-et azt, ahol a Python Script-ek vannak.
+	Alapértelmezett: C:\Users\%username%\AppData\Local\Programs\Python\Python39\Scripts
 
-4. Majd írd be a cmd-be
+5. Majd írd be a cmd-be
 
 	pip install pywin32
 	pip install keyboard
