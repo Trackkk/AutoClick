@@ -1,0 +1,2 @@
+# AutoClick
+Neptun tárgyfelvétel könnyítő
