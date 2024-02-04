@@ -1,5 +1,7 @@
 # AutoClick
 Neptun tárgyfelvétel könnyítő
+
+
 1.Meg kell keresni a Python maga hol fut le de ez benne szokott lenni az Environment variables-ben.
 
 2.Windows-ba ird be:"Environment variables".
