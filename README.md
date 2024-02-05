@@ -2,7 +2,7 @@
 
 
 ### 1. Meg kell keresni a Python mappáját:
-* Ez benne szokott lenni az Environment variables -ben.
+* Ez benne szokott lenni az Environment variables -ben. *Ha hozzáadtad*
 * Windows-ba írd be: **Environment variables** VAGY *környezeti váltózók* azt hiszem.
 
 ### 2. Adj hozzá új **Path**-et, azt ahol a Python Script-ek vannak:
