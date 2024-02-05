@@ -4,7 +4,7 @@
 
 ### 1. Meg kell keresni a Python maga hol fut le:
 * Ez benne szokott lenni az Environment variables -ben.
-* Windows-ba írd be: ** Environment variables ** VAGY (környezeti váltózók) azt hiszem.
+* Windows-ba írd be: __ Environment variables __ VAGY (környezeti váltózók) azt hiszem.
 
 ### 2. Adj hozzá új Path-et, azt ahol a Python Script-ek vannak:
 * Alapértelmezett: C:\Users\\%username%\AppData\Local\Programs\Python\Python39\Scripts 
