@@ -9,7 +9,7 @@ Ha nem tudod, hogy kell, nézd meg a sorrend képet.
 
 Írd át a %username% -et vagy keress rá fájlkezelőben és onnan másold ki az elérési címet!
 
-Environment variables -> Path -> New -> C:\Users\%username%\AppData\Local\Programs\Python\Python39\Scripts
+Environment variables -> Path -> New -> C:\Users\\%username%\AppData\Local\Programs\Python\Python39\Scripts
 
 4. Majd másold be a cmd-be:
 
