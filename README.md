@@ -10,13 +10,8 @@ Ha nem tudod, hogy kell, nézd meg a sorrend képet:
 	Environment variables -> Path -> New -> C:\Users\\%username%\AppData\Local\Programs\Python\Python39\Scripts
 
 ### 4. Majd másold be a cmd-be:
-
 	pip install pywin32
-
 	pip install keyboard
-
 	pip install mouse
-
 	pip install pyautogui
-
 	pip install opencv-python
