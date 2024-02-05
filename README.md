@@ -1,5 +1,4 @@
-# AutoClick
-## Neptun tárgyfelvétel könnyítő
+# AutoClick Neptun tárgyfelvétel könnyítő
 
 
 ### 1. Meg kell keresni a Python maga hol fut le:
