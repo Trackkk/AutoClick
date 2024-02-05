@@ -14,7 +14,5 @@ Ha nem tudod, hogy kell, nézd meg a sorrend képet:
 	pip install pywin32
 	pip install keyboard
 	pip install mouse
-
 	pip install pyautogui
-
 	pip install opencv-python
