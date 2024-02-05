@@ -20,7 +20,7 @@
 	pip install pyautogui
 	pip install opencv-python
  
- ### 4. Töltsd le és tedd egy mappába:
+ ### 4. Töltsd le és tedd egy mappába a következőket:
  * **main.py**
  * **MentesGombot**
  	
