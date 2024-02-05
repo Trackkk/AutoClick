@@ -21,7 +21,7 @@
 
  ### 4. Töltsd le és tedd egy mappába a következőket:
  * **main.py**
- * **MentesGomb**
+ * **MentesGomb.png**
 
 *Ha elakadsz vagy valamit nem értesz a sorrend kép segíthet, vagy kérdezz engem.*
  
