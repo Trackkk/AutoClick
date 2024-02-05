@@ -6,11 +6,15 @@ Neptun tárgyfelvétel könnyítő
 
 2. Adj hozzá új Path-et azt, ahol a Python Script-ek vannak. Alapértelmezett: C:\Users\%username%\AppData\Local\Programs\Python\Python39\Scripts
 Ha nem tudod, hogy kell, nézd meg a sorrend képet.
-3. Majd írd be a cmd-be
+
+Írd át a %username% -et vagy keress rá fájlkezelőben és onnan másold ki az elérési címet!
+
+Environment variables -> Path -> New -> C:\Users\%username%\AppData\Local\Programs\Python\Python39\Scripts
+
+4. Majd másold be a cmd-be:
 
 	pip install pywin32
 	pip install keyboard
 	pip install mouse
 	pip install pyautogui
 	pip install opencv-python
-
